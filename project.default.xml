@@ -1,0 +1,42 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+          <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+            <option name="CODING_STANDARD" value="WordPress-VIP" />
+          </inspection_tool>
+        </profile>
+        <version value="1.0" />
+      </component>
+      <component name="PHPCodeSnifferProjectConfiguration">
+        <option name="selectedConfigurationId" value="8ef3ac43-70c0-47e6-9f58-26eea3a8419e" />
+      </component>
+      <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="Remote PHP 7" />
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>PHP</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>PhpCSValidationInspection</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

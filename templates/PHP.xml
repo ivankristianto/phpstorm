@@ -1,0 +1,22 @@
+<templateSet group="PHP">
+  <template name="dd" value="die_dump($END$);" description="die_dump" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="er" value="error_log($END$);" description="error_log" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="ddd" value="var_dump($END$);exit;" description="var_dump then exit" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="eee" value="esc_attr_e( __( '$END$', 'txtd' ) );" description="echo esc_attr __" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

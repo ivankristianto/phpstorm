@@ -1,0 +1,42 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
+  <action id="ConvertIndentsToTabs">
+    <keyboard-shortcut first-keystroke="shift meta i" />
+  </action>
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="shift meta k" />
+  </action>
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
+  <action id="GotoPreviousBookmark">
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="Vcs.Push" />
+  <action id="WebServicesPlugin.CreateRESTClient">
+    <keyboard-shortcut first-keystroke="shift meta m" />
+  </action>
+</keymap>
