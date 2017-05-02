@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../wp-content/themes/creditkarma/includes/Menus/menus.php - [creditkarma]'" />
-    <option name="defaultScopeName" value="File '.../wp-content/themes/creditkarma/includes/Menus/menus.php - [creditkarma]'" />
-    <option name="SEARCH_SCOPE" value="File '.../wp-content/themes/creditkarma/includes/Menus/menus.php - [creditkarma]'" />
+    <option name="customScope" value="File '.../wp-content/themes/creditkarma/single-ck-sem.php - [creditkarma]'" />
+    <option name="defaultScopeName" value="File '.../wp-content/themes/creditkarma/single-ck-sem.php - [creditkarma]'" />
+    <option name="SEARCH_SCOPE" value="File '.../wp-content/themes/creditkarma/single-ck-sem.php - [creditkarma]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
