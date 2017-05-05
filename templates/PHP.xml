@@ -14,9 +14,19 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="eee" value="esc_attr_e( __( '$END$', 'txtd' ) );" description="echo esc_attr __" toReformat="false" toShortenFQNames="true">
+  <template name="eee" value="esc_attr_e( '$END$', 'txtd' );" description="echo esc_attr __" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="eesc" value="&lt;?php echo esc_attr($END$); ?&gt;" description="echo esc_attr" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="ehe" value="&lt;?php esc_html_e( '$END$', 'txtd' ); ?&gt;" description="esc_html_e" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
     </context>
   </template>
 </templateSet>
