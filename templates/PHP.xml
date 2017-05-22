@@ -9,7 +9,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="ddd" value="var_dump($END$);exit;" description="var_dump then exit" toReformat="false" toShortenFQNames="true">
+  <template name="ddd" value="echo '&lt;pre&gt;';var_dump($END$);exit;" description="var_dump then exit" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
