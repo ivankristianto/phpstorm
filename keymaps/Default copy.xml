@@ -38,6 +38,9 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="TogglePowerSave">
+    <keyboard-shortcut first-keystroke="shift meta back_slash" />
+  </action>
   <action id="Vcs.Push" />
   <action id="WebServicesPlugin.CreateRESTClient">
     <keyboard-shortcut first-keystroke="shift meta m" />
