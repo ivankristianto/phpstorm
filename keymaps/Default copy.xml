@@ -8,6 +8,9 @@
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift meta semicolon" />
   </action>
+  <action id="ConvertIndentsToSpaces">
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
+  </action>
   <action id="ConvertIndentsToTabs">
     <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
