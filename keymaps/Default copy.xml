@@ -47,6 +47,11 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="f3" />
+    <keyboard-shortcut first-keystroke="ctrl meta b" />
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
   <action id="TogglePowerSave">
     <keyboard-shortcut first-keystroke="shift meta back_slash" />
   </action>
