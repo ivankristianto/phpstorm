@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../wp-content/themes/creditkarma/includes/Author/core.php - [creditkarma]'" />
-    <option name="defaultScopeName" value="File '.../wp-content/themes/creditkarma/includes/Author/core.php - [creditkarma]'" />
-    <option name="SEARCH_SCOPE" value="File '.../wp-content/themes/creditkarma/includes/Author/core.php - [creditkarma]'" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -14,7 +13,6 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.s</mask>
@@ -24,6 +22,7 @@
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
