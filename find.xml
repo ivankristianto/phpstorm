@@ -18,12 +18,13 @@
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.ph</mask>
-      <mask>*.js</mask>
       <mask>[</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>js</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
