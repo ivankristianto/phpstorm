@@ -58,6 +58,9 @@
   <action id="TogglePowerSave">
     <keyboard-shortcut first-keystroke="shift meta back_slash" />
   </action>
+  <action id="Tool_External Tools_phpcbf">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
   <action id="Vcs.Push" />
   <action id="WebServicesPlugin.CreateRESTClient">
     <keyboard-shortcut first-keystroke="shift meta m" />

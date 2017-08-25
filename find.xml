@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../wp-content/themes/creditkarma/includes/Shortcodes/shortcodes.php - [creditkarma]'" />
-    <option name="defaultScopeName" value="File '.../wp-content/themes/creditkarma/includes/Shortcodes/shortcodes.php - [creditkarma]'" />
+    <option name="customScope" value="Directory '.../wp-content/plugins/duplicate-post - [creditkarma]'" />
+    <option name="defaultScopeName" value="Directory '.../wp-content/plugins/duplicate-post - [creditkarma]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../wp-content/themes/creditkarma/includes/Shortcodes/shortcodes.php - [creditkarma]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../wp-content/plugins/duplicate-post - [creditkarma]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
