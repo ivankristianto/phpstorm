@@ -16,14 +16,14 @@
   <tool name="phpcs" description="PHP CS" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/wpcs/vendor/bin/phpcs" />
-      <option name="PARAMETERS" value="--standard=WordPress --extensions=php $FileDir$/$FileName$" />
+      <option name="PARAMETERS" value="-d memory_limit=-1 --standard=WordPress $FileDir$/$FileName$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="phpcs dir" description="phpcs directory" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/wpcs/vendor/bin/phpcs" />
-      <option name="PARAMETERS" value="--standard=WordPress --extensions=php $FileDir$" />
+      <option name="PARAMETERS" value="-d memory_limit=-1 --standard=WordPress $FileDir$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
