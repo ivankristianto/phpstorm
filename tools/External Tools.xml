@@ -2,7 +2,7 @@
   <tool name="phpcbf" description="PHP CS Beautifier" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/wpcs/vendor/bin/phpcbf" />
-      <option name="PARAMETERS" value="--standard=WordPress-VIP --extensions=php $FileDir$/$FileName$" />
+      <option name="PARAMETERS" value="--standard=WordPress-VIP $FileDir$/$FileName$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
