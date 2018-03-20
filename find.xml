@@ -24,12 +24,12 @@
       <mask>*.scss</mask>
       <mask>*.j</mask>
       <mask>*.jss</mask>
-      <mask>*.js</mask>
       <mask>p</mask>
       <mask>ph</mask>
       <mask>php</mask>
       <mask>*php</mask>
       <mask>*.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
