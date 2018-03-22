@@ -46,6 +46,12 @@
   <action id="PhpListenDebugAction">
     <keyboard-shortcut first-keystroke="meta alt back_space" />
   </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
