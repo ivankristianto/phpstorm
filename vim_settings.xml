@@ -1,8 +1,13 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Works/vvv/www/creditkarma/htdocs/wp-content/themes/creditkarma/includes/Tealium/core.php" timestamp="1522318910956">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
+      </file>
       <file name="$USER_HOME$/Works/vvv/www/xylemsales/htdocs/wp-content/plugins/onelogin-saml-sso/php/functions.php" timestamp="1522257953264">
         <mark key="'" line="139" column="13" />
         <mark key="[" line="147" column="8" />
@@ -39,9 +44,30 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICAkdGhpcy0+X2Vycm9ycyA9IGFycmF5KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CTwvc2NyaXB0Pgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQl9KSgpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJYT0nPD9waHAgZWNobyBlc2NfdXJsKCAkc2NyaXB0ICk7ID8+JzsgYj1kb2N1bWVudDtjPSdzY3JpcHQnO2Q9Yi5jcmVhdGVFbGVtZW50KGMpO2Quc3JjPWE7IGQudHlwZT0ndGV4dC9qYXZhJytjO2QuYXN5bmM9dHJ1ZTsgYT1iLmdldEVsZW1lbnRzQnlUYWdOYW1lKGMpWzBdO2EucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoZCxhKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkoZnVuY3Rpb24oYSxiLGMsZCl7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CTxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4K</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHsKICAgICAgICAkdGhpcy0+X2Vycm9ycyA9IGFycmF5KCk7Cg==</text>
       </register>
       <register name=":" type="4">
