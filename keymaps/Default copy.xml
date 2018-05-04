@@ -33,6 +33,7 @@
   </action>
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
+    <keyboard-shortcut first-keystroke="shift f3" />
   </action>
   <action id="GotoPreviousBookmark">
     <keyboard-shortcut first-keystroke="shift ctrl m" />
