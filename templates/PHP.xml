@@ -34,4 +34,14 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="ea" value="esc_attr( '$END$' );" description="echo esc_attr" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="eh" value="esc_html( '$END$' );" description="echo esc_html" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
