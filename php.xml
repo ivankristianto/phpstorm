@@ -5,6 +5,14 @@
       <phpcs_by_interpreter interpreter_id="8ef3ac43-70c0-47e6-9f58-26eea3a8419e" standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;WordPress;WordPress-Core;WordPress-Docs;WordPress-Extra;WordPress-VIP;Zend" tool_path="/usr/local/bin/phpcs" />
     </phpcs_settings>
   </component>
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter home="vagrant:///Users/ivankristianto/Works/vvv/usr/bin/php" id="8ef3ac43-70c0-47e6-9f58-26eea3a8419e" name="Remote PHP 7" debugger_id="php.debugger.XDebug">
+        <remote_data VAGRANT_FOLDER="$USER_HOME$/Works/vvv" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      </interpreter>
+      <interpreter home="/usr/local/Cellar/php70/7.0.15_8/bin/php" id="72cb0af0-05a7-4fc3-8505-2da92771a852" name="Local PHP 7" debugger_id="php.debugger.XDebug" />
+    </interpreters>
+  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Local PHP 7">
