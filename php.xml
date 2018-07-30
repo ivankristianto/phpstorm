@@ -1,5 +1,9 @@
 <application>
+  <component name="MessDetector">
+    <phpmd_settings_migrated />
+  </component>
   <component name="PhpCodeSniffer">
+    <phpcs_settings_migrated />
     <phpcs_settings>
       <PhpCSConfiguration max_messages_per_file="20" standards="MySource;PEAR;PSR1;PSR2;Squiz;WordPress;WordPress-Core;WordPress-Docs;WordPress-Extra;WordPress-VIP;Zend" tool_path="$USER_HOME$/wpcs/vendor/bin/phpcs" />
       <phpcs_by_interpreter interpreter_id="8ef3ac43-70c0-47e6-9f58-26eea3a8419e" standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;WordPress;WordPress-Core;WordPress-Docs;WordPress-Extra;WordPress-VIP;Zend" tool_path="/usr/local/bin/phpcs" />
