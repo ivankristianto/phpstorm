@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/assets/js/components/setup/search-console.js" timestamp="1545296467705">
-        <mark key="[" line="107" column="27" />
-        <mark key="]" line="107" column="25" />
-        <mark key="^" line="107" column="25" />
-        <mark key="." line="107" column="25" />
+      <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/assets/js/components/setup/search-console.js" timestamp="1545299777302">
+        <mark key="'" line="120" column="0" />
+        <mark key="[" line="234" column="39" />
+        <mark key="]" line="234" column="39" />
+        <mark key="^" line="196" column="9" />
+        <mark key="." line="234" column="39" />
       </file>
       <file name="$USER_HOME$/Works/vvv/www/xylemsales/htdocs/wp-content/plugins/onelogin-saml-sso/php/functions.php" timestamp="1522257953264">
         <mark key="'" line="139" column="13" />
@@ -16,10 +17,10 @@
         <mark key="." line="147" column="8" />
         <mark key="^" line="147" column="9" />
       </file>
-      <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/includes/authentication.php" timestamp="1545292623469">
+      <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/includes/authentication.php" timestamp="1545300184458">
         <mark key="[" line="253" column="42" />
-        <mark key="]" line="253" column="49" />
-        <mark key="." line="253" column="49" />
+        <mark key="]" line="253" column="42" />
+        <mark key="." line="253" column="42" />
         <mark key="^" line="253" column="49" />
       </file>
       <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/includes/modules/analytics/assets/js/src/dashboard/dashboard-widget-analytics-adsense-top-pages.js" timestamp="1545283257707">
@@ -38,6 +39,12 @@
         <mark key="[" line="175" column="4" />
         <mark key="]" line="175" column="0" />
         <mark key="." line="175" column="0" />
+      </file>
+      <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/assets/js/components/setup.js" timestamp="1545299915533">
+        <mark key="[" line="129" column="53" />
+        <mark key="]" line="129" column="52" />
+        <mark key="." line="129" column="52" />
+        <mark key="^" line="129" column="52" />
       </file>
       <file name="$USER_HOME$/Works/vvv/www/creditkarma/htdocs/wp-content/themes/creditkarma/includes/Tealium/core.php" timestamp="1522318910956">
         <mark key="[" line="112" column="0" />
@@ -59,43 +66,51 @@
       <jump line="407" column="0" filename="$USER_HOME$/Works/vvv/www/xylemsales/htdocs/wp-content/plugins/onelogin-saml-sso/php/lib/Saml2/Auth.php" />
       <jump line="147" column="31" filename="$USER_HOME$/Works/vvv/www/xylemsales/htdocs/wp-content/plugins/onelogin-saml-sso/php/functions.php" />
       <jump line="139" column="13" filename="$USER_HOME$/Works/vvv/www/xylemsales/htdocs/wp-content/plugins/onelogin-saml-sso/php/functions.php" />
+      <jump line="132" column="2" filename="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/assets/js/components/setup/search-console.js" />
+      <jump line="120" column="0" filename="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/assets/js/components/setup/search-console.js" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="&quot;" type="4">
         <text>/</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CTwvc2NyaXB0Pgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQl9KSgpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJYT0nPD9waHAgZWNobyBlc2NfdXJsKCAkc2NyaXB0ICk7ID8+JzsgYj1kb2N1bWVudDtjPSdzY3JpcHQnO2Q9Yi5jcmVhdGVFbGVtZW50KGMpO2Quc3JjPWE7IGQudHlwZT0ndGV4dC9qYXZhJytjO2QuYXN5bmM9dHJ1ZTsgYT1iLmdldEVsZW1lbnRzQnlUYWdOYW1lKGMpWzBdO2EucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoZCxhKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkoZnVuY3Rpb24oYSxiLGMsZCl7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CTxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICAkdGhpcy0+X2Vycm9ycyA9IGFycmF5KCk7Cg==</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
       </register>
       <register name="/" type="4">
         <text>24</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJPHNlY3Rpb24gY2xhc3NOYW1lPSJnb29nbGVzaXRla2l0LWNvbm5lY3Qtc2VhcmNoLWNvbnNvbGUiPgoJCQkJPGgzIGNsYXNzTmFtZT0iCgkJCQkJZ29vZ2xlc2l0ZWtpdC1oZWFkaW5nLTQKCQkJCQlnb29nbGVzaXRla2l0LXNpdGUtdmVyaWZpY2F0aW9uX190aXRsZQoJCQkJIj4KCQkJCQl7IF9fKCAnU2VhcmNoIENvbnNvbGUnLCAnZ29vZ2xlc2l0ZWtpdCcgKSB9CgkJCQk8L2gzPgoKCQkJCTxwPnsgX18oICdDb25uZWN0aW5nIFNlYXJjaCBDb25zb2xlIHRvIFNpdGUgS2l0LiBObyBhY2NvdW50PyBEb25cJ3Qgd29ycnksIHdlIHdpbGwgY3JlYXRlIG9uZSBoZXJlLicsICdnb29nbGVzaXRla2l0JyApIH08L3A+CgoJCQkJeyBpc0F1dGhlbnRpY2F0ZWQgJiYgdGhpcy5yZW5kZXJGb3JtKCkgfQoKCQkJPC9zZWN0aW9uPgo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCQkJCQkJCQkJfQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCQkJCQkJCQkJCQlTaXRlVmVyaWZpY2F0aW9uOjpjb25uZWN0ZWQoKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCQkJCQkJCQkJeyAhIGhhc1NlYXJjaENvbnNvbGVQcm9wZXJ0eSBkZD8K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCQkJCQkJCQkJCTxwIGNsYXNzTmFtZT0iZ29vZ2xlc2l0ZWtpdC1jb25uZWN0LXNlYXJjaC1jb25zb2xlX19kZXNjcmlwdGlvbiI+eyBfXyggJ1lvdXIgU2VhcmNoIENvbnNvbGUgaXMgc2V0IHVwIHdpdGggU2l0ZSBLaXQnLCAnZ29vZ2xlc2l0ZWtpdCcgKSB9PC9wPgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQlpZiAoIGNvbm5lY3RlZCApIHsKCQkJcmV0dXJuICgKCQkJKTsKCQl9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCTxwIGNsYXNzTmFtZT0iZ29vZ2xlc2l0ZWtpdC1jb25uZWN0LXNlYXJjaC1jb25zb2xlX19kZXNjcmlwdGlvbiI+eyBfXyggJ1lvdXIgU2VhcmNoIENvbnNvbGUgaXMgc2V0IHVwIHdpdGggU2l0ZSBLaXQnLCAnZ29vZ2xlc2l0ZWtpdCcgKSB9PC9wPgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -113,9 +128,9 @@
       <history-cmd>
         <entry>q</entry>
         <entry>saml_checker</entry>
-        <entry>wq</entry>
         <entry>24</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -124,7 +139,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
