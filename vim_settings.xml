@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/assets/js/components/setup/search-console.js" timestamp="1545296323937">
+        <mark key="[" line="81" column="12" />
+        <mark key="]" line="81" column="18" />
+        <mark key="^" line="81" column="18" />
+        <mark key="." line="81" column="18" />
+      </file>
       <file name="$USER_HOME$/Works/vvv/www/xylemsales/htdocs/wp-content/plugins/onelogin-saml-sso/php/functions.php" timestamp="1522257953264">
         <mark key="'" line="139" column="13" />
         <mark key="[" line="147" column="8" />
@@ -117,6 +123,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
