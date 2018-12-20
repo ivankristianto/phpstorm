@@ -62,11 +62,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/includes/modules/search-console/assets/js/src/dashboard/dashboard-widget-search-funnel-inner.js" timestamp="1545315763082" />
-      <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/includes/authentication/client.php" timestamp="1545327831526">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/includes/authentication/client.php" timestamp="1545329420597">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="2" column="30" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/bin/authentication-cli.php" timestamp="1545321409904">
         <mark key="[" line="59" column="48" />
@@ -104,9 +104,9 @@
       <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/includes/authentication/Client.php" timestamp="1545327628382">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/includes/authentication-proxy/authentication.php" timestamp="1545327825172">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="35" column="36" />
+      <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/includes/authentication-proxy/authentication.php" timestamp="1545329363969">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="9" column="3" />
       </file>
       <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/google.php" timestamp="1545321301154">
         <mark key="[" line="34" column="40" />
@@ -143,7 +143,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CS8qKgoJICogR29vZ2xlIGF1dGggc2NvcGVzIGFycmF5LgoJICoKCSAqIEB2YXIgYXJyYXkKCSAqLwoJcHVibGljIHN0YXRpYyAkc2NvcGVzID0gYXJyYXkoKTsK</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="-" type="4">
         <text>use function GoogleSitekit\Authentication\get_site_verification_meta;</text>
@@ -152,34 +152,34 @@
         <text>get_verification</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CS8qKgoJICogR29vZ2xlIGF1dGggc2NvcGVzIGFycmF5LgoJICoKCSAqIEB2YXIgYXJyYXkKCSAqLwoJcHVibGljIHN0YXRpYyAkc2NvcGVzID0gYXJyYXkoKTsK</text>
+        <text encoding="base64">LyoqCiAqIEF1dGhlbnRpY2F0aW9uIFByb3h5IExvZ2ljCiAqCiAqIFRoaXMgd2lsbCBldmVudHVhbGx5IGJlIHBsYWNlZCBvbiBhIHNlcGFyYXRlIHNlcnZlciBzbyB0aGUgVVJMIGNhbiBiZSB3aGl0ZWxpc3RlZCB3aXRoIEdvb2dsZSBDbG91ZCBDb25zb2xlIGFuZCB3aWxsIHN0b3JlCiAqIHRoZSBwcml2YXRlIGtleXMgZm9yIGNvbm5lY3Rpb24gaW4gYSBzYWZlIGxvY2F0aW9uLiBGb3Igbm93LCB0aGlzIHdpbGwgY29ubmVjdCB0byB0aGUgR29vZ2xlIENsb3VkIENvbnNvbGUgcHJvamVjdCBhdAogKiBodHRwczovL2NvbnNvbGUuY2xvdWQuZ29vZ2xlLmNvbS9ob21lP3Byb2plY3Q9cG93ZXJmdWwtbG9yZS0yMTAwMTkKICoKICogQHBhY2thZ2UgZ29vZ2xlc2l0ZWtpdAogKi8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogaHR0cHM6Ly9jb25zb2xlLmNsb3VkLmdvb2dsZS5jb20vaG9tZT9wcm9qZWN0PXBvd2VyZnVsLWxvcmUtMjEwMDE5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSRzZWFyY2hfY29uc29sZV9wcm9wZXJ0eSAgICAgICAgID0gZ2V0X3NlYXJjaF9jb25zb2xlX3Byb3BlcnR5KCk7Cg==</text>
+        <text encoding="base64">ICogdGhlIHByaXZhdGUga2V5cyBmb3IgY29ubmVjdGlvbiBpbiBhIHNhZmUgbG9jYXRpb24uIEZvciBub3csIHRoaXMgd2lsbCBjb25uZWN0IHRvIHRoZSBHb29nbGUgQ2xvdWQgQ29uc29sZSBwcm9qZWN0IGF0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSR2ZXJpZmljYXRpb25fbWV0YSAgICAgICAgICAgICAgID0gZ2V0X3NpdGVfdmVyaWZpY2F0aW9uX21ldGEoKTsK</text>
+        <text encoding="base64">ICogVGhpcyB3aWxsIGV2ZW50dWFsbHkgYmUgcGxhY2VkIG9uIGEgc2VwYXJhdGUgc2VydmVyIHNvIHRoZSBVUkwgY2FuIGJlIHdoaXRlbGlzdGVkIHdpdGggR29vZ2xlIENsb3VkIENvbnNvbGUgYW5kIHdpbGwgc3RvcmUK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQlodHRwczovL2dldDEwdXAuem9vbS51cy9qLzc1MTc1NTcxMTEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl0aGlzLmV4aXRBdXRoZW50aWNhdGlvbldpemFyZCA9IHRoaXMuZXhpdEF1dGhlbnRpY2F0aW9uV2l6YXJkLmJpbmQoIHRoaXMgKTsK</text>
+        <text encoding="base64">CSRzZWFyY2hfY29uc29sZV9wcm9wZXJ0eSAgICAgICAgID0gZ2V0X3NlYXJjaF9jb25zb2xlX3Byb3BlcnR5KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSR2ZXJpZmljYXRpb25fbWV0YSAgICAgICAgICAgICAgID0gZ2V0X3NpdGVfdmVyaWZpY2F0aW9uX21ldGEoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
