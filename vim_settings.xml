@@ -10,10 +10,11 @@
         <mark key="." line="147" column="8" />
         <mark key="^" line="147" column="9" />
       </file>
-      <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/includes/authentication.php" timestamp="1545282941395">
+      <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/includes/authentication.php" timestamp="1545292623469">
         <mark key="[" line="253" column="42" />
-        <mark key="]" line="253" column="42" />
-        <mark key="." line="253" column="42" />
+        <mark key="]" line="253" column="49" />
+        <mark key="." line="253" column="49" />
+        <mark key="^" line="253" column="49" />
       </file>
       <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/includes/modules/analytics/assets/js/src/dashboard/dashboard-widget-analytics-adsense-top-pages.js" timestamp="1545283257707">
         <mark key="[" line="11" column="0" />
