@@ -67,11 +67,12 @@
         <mark key="]" line="6" column="39" />
       </file>
       <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/assets/js/components/data.js" timestamp="1545319148999" />
-      <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/includes/modules/search-console/search-console.php" timestamp="1545321264468">
-        <mark key="[" line="156" column="33" />
-        <mark key="]" line="157" column="56" />
-        <mark key="." line="157" column="56" />
-        <mark key="^" line="157" column="56" />
+      <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/includes/modules/search-console/search-console.php" timestamp="1545326814061">
+        <mark key="'" line="21" column="63" />
+        <mark key="[" line="157" column="34" />
+        <mark key="]" line="157" column="34" />
+        <mark key="." line="157" column="34" />
+        <mark key="^" line="157" column="34" />
       </file>
       <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/includes/authentication.php" timestamp="1545321629804">
         <mark key="[" line="246" column="4" />
@@ -124,16 +125,17 @@
       <jump line="132" column="2" filename="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/assets/js/components/setup/search-console.js" />
       <jump line="120" column="0" filename="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/assets/js/components/setup/search-console.js" />
       <jump line="79" column="19" filename="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/assets/js/components/setup.js" />
+      <jump line="21" column="63" filename="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/includes/modules/search-console/search-console.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>use function GoogleSitekit\Authentication\get_site_verification_meta;</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>use function GoogleSitekit\Authentication\get_site_verification_meta;</text>
       </register>
       <register name="/" type="4">
-        <text>24</text>
+        <text>get_verification</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlkZWxldGVfb3B0aW9uKCBHT09HTEVTSVRFS0lUX1NJVEVfVkVSSUZJQ0FUSU9OX01FVEFfS0VZICk7Cg==</text>
@@ -170,9 +172,9 @@
       </register>
     </registers>
     <search>
-      <last-search>24</last-search>
+      <last-search>get_verification</last-search>
       <last-offset />
-      <last-pattern>24</last-pattern>
+      <last-pattern>get_verification</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -180,6 +182,7 @@
       <history-search>
         <entry>saml_checker</entry>
         <entry>24</entry>
+        <entry>get_verification</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
