@@ -58,12 +58,12 @@
       <file name="/PHP Console" timestamp="1522257624098">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/includes/authentication/client.php" timestamp="1545384278478">
+      <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/includes/authentication/client.php" timestamp="1545386238433">
         <mark key="'" line="65" column="0" />
-        <mark key="[" line="92" column="28" />
-        <mark key="]" line="92" column="35" />
-        <mark key="." line="92" column="35" />
-        <mark key="^" line="92" column="35" />
+        <mark key="[" line="92" column="27" />
+        <mark key="]" line="92" column="39" />
+        <mark key="." line="92" column="39" />
+        <mark key="^" line="92" column="39" />
       </file>
       <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/bin/authentication-cli.php" timestamp="1545321409904">
         <mark key="[" line="59" column="48" />
@@ -147,10 +147,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>self::$scopes</text>
@@ -159,31 +159,31 @@
         <text encoding="base64">ZGVmaW5lKCAnR09PR0xFU0lURUtJVF9TSVRFX1ZFUklGSUNBVElPTl9NRVRBX0tFWScsICdnb29nbGVzaXRla2l0X3NpdGVfdmVyaWZpY2F0aW9uX21ldGEnICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmaW5lKCAnR09PR0xFU0lURUtJVF9TSVRFX1ZFUklGSUNBVElPTl9NRVRBX0tFWScsICdnb29nbGVzaXRla2l0X3NpdGVfdmVyaWZpY2F0aW9uX21ldGEnICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmaW5lKCAnR09PR0xFU0lURUtJVF9TSVRFX1ZFUklGSUNBVElPTl9NRVRBX0tFWScsICdnb29nbGVzaXRla2l0X3NpdGVfdmVyaWZpY2F0aW9uX21ldGEnICk7Cg==</text>
+        <text encoding="base64">CQkkcmVmcmVzaF90b2tlbjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmaW5lKCAnR09PR0xFU0lURUtJVF9TSVRFX1ZFUklGSUNBVElPTl9NRVRBX0tFWScsICdnb29nbGVzaXRla2l0X3NpdGVfdmVyaWZpY2F0aW9uX21ldGEnICk7Cg==</text>
+        <text encoding="base64">CQkvLyBDaGVjayBmb3IgYSB2YWxpZCBzdG9yZWQgcmVmcmVzaCB0b2tlbi4gSWYgaXQncyBiZWVuIHNldCwgZ3JhYiB0aGUgYXV0aGVudGljYXRpb24gdG9rZW4uCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ZGVmaW5lKCAnR09PR0xFU0lURUtJVF9TSVRFX1ZFUklGSUNBVElPTl9NRVRBX0tFWScsICdnb29nbGVzaXRla2l0X3NpdGVfdmVyaWZpY2F0aW9uX21ldGEnICk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmaW5lKCAnR09PR0xFU0lURUtJVF9TSVRFX1ZFUklGSUNBVElPTl9NRVRBX0tFWScsICdnb29nbGVzaXRla2l0X3NpdGVfdmVyaWZpY2F0aW9uX21ldGEnICk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmaW5lKCAnR09PR0xFU0lURUtJVF9TSVRFX1ZFUklGSUNBVElPTl9NRVRBX0tFWScsICdnb29nbGVzaXRla2l0X3NpdGVfdmVyaWZpY2F0aW9uX21ldGEnICk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmaW5lKCAnR09PR0xFU0lURUtJVF9TSVRFX1ZFUklGSUNBVElPTl9NRVRBX0tFWScsICdnb29nbGVzaXRla2l0X3NpdGVfdmVyaWZpY2F0aW9uX21ldGEnICk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
