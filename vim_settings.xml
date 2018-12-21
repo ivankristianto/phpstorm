@@ -58,12 +58,12 @@
       <file name="/PHP Console" timestamp="1522257624098">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/includes/authentication/client.php" timestamp="1545383235831">
+      <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/includes/authentication/client.php" timestamp="1545384278478">
         <mark key="'" line="65" column="0" />
-        <mark key="[" line="21" column="26" />
-        <mark key="]" line="18" column="5" />
-        <mark key="." line="18" column="5" />
-        <mark key="^" line="18" column="5" />
+        <mark key="[" line="92" column="28" />
+        <mark key="]" line="92" column="35" />
+        <mark key="." line="92" column="35" />
+        <mark key="^" line="92" column="35" />
       </file>
       <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/bin/authentication-cli.php" timestamp="1545321409904">
         <mark key="[" line="59" column="48" />
@@ -104,11 +104,11 @@
         <mark key="[" line="79" column="0" />
         <mark key="]" line="100" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/google.php" timestamp="1545321301154">
-        <mark key="[" line="34" column="40" />
-        <mark key="]" line="34" column="75" />
-        <mark key="." line="34" column="75" />
-        <mark key="^" line="34" column="75" />
+      <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/google.php" timestamp="1545384072371">
+        <mark key="[" line="36" column="73" />
+        <mark key="]" line="36" column="60" />
+        <mark key="." line="36" column="60" />
+        <mark key="^" line="36" column="60" />
       </file>
       <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/assets/js/components/dashboard/dashboard-app.js" timestamp="1545319510776">
         <mark key="^" line="12" column="18" />
@@ -147,43 +147,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>self::$scopes</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJJGFjY2Vzc190b2tlbiA9IHdwX2NhY2hlX2dldCggJ19hY2Nlc3NfdG9rZW5fJywgR09PR0xFU0lURUtJVF9TRVNTSU9OX0NBQ0hFX0dST1VQICk7CgoJCQlpZiAoICEgZW1wdHkoICRhY2Nlc3NfdG9rZW4gKSApIHsKCQkJCXNlbGY6OiRjbGllbnQtPnNldEFjY2Vzc1Rva2VuKCAkYWNjZXNzX3Rva2VuICk7CgkJCX0KCgkJCWlmICggISBzZWxmOjokY2xpZW50LT5pc0FjY2Vzc1Rva2VuRXhwaXJlZCgpICkgewoJCQkJcmV0dXJuIHNlbGY6OiRjbGllbnQ7CgkJCX0KCgkJCS8vIENoZWNrIGZvciBhIHZhbGlkIHN0b3JlZCByZWZyZXNoIHRva2VuLiBJZiBpdCdzIGJlZW4gc2V0LCBncmFiIHRoZSBhdXRoZW50aWNhdGlvbiB0b2tlbi4KCQkJJHJlZnJlc2hfdG9rZW4gPSBcR29vZ2xlU2l0ZWtpdFxBdXRoZW50aWNhdGlvblxnZXRfcmVmcmVzaF90b2tlbigpOwoKCQkJaWYgKCAhIGVtcHR5KCAkcmVmcmVzaF90b2tlbiApICkgewoJCQkJJGF1dGhlbnRpY2F0aW9uX3Rva2VuID0gc2VsZjo6JGNsaWVudC0+ZmV0Y2hBY2Nlc3NUb2tlbldpdGhSZWZyZXNoVG9rZW4oICRyZWZyZXNoX3Rva2VuICk7CgoJCQkJaWYgKCBpc19hcnJheSggJGF1dGhlbnRpY2F0aW9uX3Rva2VuICkgKSB7CgkJCQkJc2VsZjo6JGNsaWVudC0+c2V0QWNjZXNzVG9rZW4oICRhdXRoZW50aWNhdGlvbl90b2tlbiApOwoJCQkJCXdwX2NhY2hlX3NldCggJ19hY2Nlc3NfdG9rZW5fJywgc2VsZjo6JGNsaWVudC0+Z2V0QWNjZXNzVG9rZW4oKSwgR09PR0xFU0lURUtJVF9TRVNTSU9OX0NBQ0hFX0dST1VQLCAkYXV0aGVudGljYXRpb25fdG9rZW5bJ2V4cGlyZXNfaW4nXSApOwoJCQkJfQoJCQl9Cgo=</text>
+        <text encoding="base64">ZGVmaW5lKCAnR09PR0xFU0lURUtJVF9TSVRFX1ZFUklGSUNBVElPTl9NRVRBX0tFWScsICdnb29nbGVzaXRla2l0X3NpdGVfdmVyaWZpY2F0aW9uX21ldGEnICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmaW5lKCAnR09PR0xFU0lURUtJVF9TSVRFX1ZFUklGSUNBVElPTl9NRVRBX0tFWScsICdnb29nbGVzaXRla2l0X3NpdGVfdmVyaWZpY2F0aW9uX21ldGEnICk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmaW5lKCAnR09PR0xFU0lURUtJVF9TSVRFX1ZFUklGSUNBVElPTl9NRVRBX0tFWScsICdnb29nbGVzaXRla2l0X3NpdGVfdmVyaWZpY2F0aW9uX21ldGEnICk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmaW5lKCAnR09PR0xFU0lURUtJVF9TSVRFX1ZFUklGSUNBVElPTl9NRVRBX0tFWScsICdnb29nbGVzaXRla2l0X3NpdGVfdmVyaWZpY2F0aW9uX21ldGEnICk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmaW5lKCAnR09PR0xFU0lURUtJVF9TSVRFX1ZFUklGSUNBVElPTl9NRVRBX0tFWScsICdnb29nbGVzaXRla2l0X3NpdGVfdmVyaWZpY2F0aW9uX21ldGEnICk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWZ1bmN0aW9uIF9fY29uc3RydWN0KCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogaHR0cHM6Ly9jb25zb2xlLmNsb3VkLmdvb2dsZS5jb20vaG9tZT9wcm9qZWN0PXBvd2VyZnVsLWxvcmUtMjEwMDE5Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
