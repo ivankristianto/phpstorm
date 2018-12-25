@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Works/vvv/www/anggaranku/public_html/wp-content/plugins/hello.php" timestamp="1545756925916" />
       <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/assets/js/components/setup/search-console.js" timestamp="1545299777302">
         <mark key="'" line="120" column="0" />
         <mark key="[" line="234" column="39" />
@@ -48,6 +49,13 @@
         <mark key="[" line="105" column="0" />
         <mark key="]" line="107" column="35" />
       </file>
+      <file name="$USER_HOME$/Works/vvv/www/anggaranku/public_html/wp-content/plugins/anggaranku/anggaranku.php" timestamp="1545757200240">
+        <mark key="'" line="35" column="34" />
+        <mark key="[" line="32" column="25" />
+        <mark key="]" line="32" column="25" />
+        <mark key="^" line="35" column="34" />
+        <mark key="." line="32" column="25" />
+      </file>
       <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/assets/js/components/setup.js" timestamp="1545319442228">
         <mark key="'" line="78" column="19" />
         <mark key="[" line="78" column="8" />
@@ -65,7 +73,6 @@
         <mark key="." line="69" column="10" />
         <mark key="^" line="69" column="10" />
       </file>
-      <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/gulp-tasks/webpack.js" timestamp="1545408155924" />
       <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/bin/authentication-cli.php" timestamp="1545321409904">
         <mark key="[" line="59" column="48" />
         <mark key="]" line="59" column="49" />
@@ -92,7 +99,6 @@
         <mark key="^" line="7" column="2" />
         <mark key="." line="7" column="2" />
       </file>
-      <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/package.json" timestamp="1545408051738" />
       <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/includes/authentication/Client.php" timestamp="1545327628382">
         <mark key="[" line="4" column="0" />
       </file>
@@ -100,9 +106,10 @@
         <mark key="[" line="79" column="0" />
         <mark key="]" line="100" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/google.php" timestamp="1545400680906">
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
+      <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/google.php" timestamp="1545757112505">
+        <mark key="'" line="20" column="30" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="92" column="77" />
         <mark key="." line="138" column="0" />
       </file>
       <file name="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/assets/js/components/dashboard/dashboard-app.js" timestamp="1545319510776">
@@ -145,57 +152,60 @@
       <jump line="49" column="0" filename="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/includes/authentication/client.php" />
       <jump line="53" column="0" filename="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/includes/authentication/client.php" />
       <jump line="51" column="0" filename="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/includes/authentication/client.php" />
+      <jump line="20" column="30" filename="$USER_HOME$/Works/vvv/www/google/public_html/wp-content/plugins/googlekit/google.php" />
+      <jump line="19" column="5" filename="$USER_HOME$/Works/vvv/www/anggaranku/public_html/wp-content/plugins/anggaranku/anggaranku.php" />
+      <jump line="37" column="34" filename="$USER_HOME$/Works/vvv/www/anggaranku/public_html/wp-content/plugins/anggaranku/anggaranku.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>self::$scopes</text>
+        <text>googlesitekit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cmVxdWlyZV9vbmNlIF9fRElSX18gLiAnL2luY2x1ZGVzL2F1dGhlbnRpY2F0aW9uLnBocCc7Cg==</text>
+        <text encoding="base64">LyoqCiAqIEhhbmRsZSBwbHVnaW4gYWN0aXZhdGlvbi4KICogUmVxdWlyZSBQSFAgdmVyc2lvbiA1LjQgLSB0aHJvdyBhbiBlcnJvciBpZiB0aGUgcGx1Z2luIGlzIGFjdGl2YXRlZCBvbiBhbiBvbGRlciB2ZXJzaW9uLgogKgogKiBAcGFyYW0gYm9vbCAkbmV0d29ya193aWRlIFdoZXRoZXIgdG8gZW5hYmxlIHRoZSBwbHVnaW4gZm9yIGFsbCBzaXRlcyBpbiB0aGUgbmV0d29yawogKiAgICAgICAgICAgICAgICAgICAgICAgICAgIG9yIGp1c3QgdGhlIGN1cnJlbnQgc2l0ZS4gTXVsdGlzaXRlIG9ubHkuIERlZmF1bHQgaXMgZmFsc2UuCiAqLwpmdW5jdGlvbiBhY3RpdmF0ZV9wbHVnaW4oICRuZXR3b3JrX3dpZGUgKSB7CglpZiAoIHZlcnNpb25fY29tcGFyZSggUEhQX1ZFUlNJT04sICc1LjQuMCcsICc8JyApICkgewoJCXdwX2RpZSgKCQkJZXNjX2h0bWxfXyggJ1NpdGUgS2l0IHJlcXVpcmVzIFBIUCB2ZXJzaW9uIDUuNC4nLCAnZ29vZ2xlc2l0ZWtpdCcgKSwKCQkJZXNjX2h0bWxfXyggJ0Vycm9yIEFjdGl2YXRpbmcnLCAnZ29vZ2xlc2l0ZWtpdCcgKQoJCSk7Cgl9CgoJaWYgKCAkbmV0d29ya193aWRlICkgewoJCS8vIER1cmluZyBwbHVnaW4gYWN0aXZhdGlvbiB3ZSBzZXQgdGhpcyBmbGFnLCB0byBjaGVjayBsYXRlci4KCQl1cGRhdGVfc2l0ZV9vcHRpb24oICdnb29nbGVzaXRla2l0X3Nob3dfYWN0aXZhdGlvbl9ub3RpY2UnLCB0cnVlICk7Cgl9IGVsc2UgewoJCS8vIER1cmluZyBwbHVnaW4gYWN0aXZhdGlvbiB3ZSBzZXQgdGhpcyBmbGFnLCB0byBjaGVjayBsYXRlci4KCQl1cGRhdGVfb3B0aW9uKCAnZ29vZ2xlc2l0ZWtpdF9zaG93X2FjdGl2YXRpb25fbm90aWNlJywgdHJ1ZSwgZmFsc2UgKTsKCX0KfQoKcmVnaXN0ZXJfYWN0aXZhdGlvbl9ob29rKCBfX0ZJTEVfXywgX19OQU1FU1BBQ0VfXyAuICdcYWN0aXZhdGVfcGx1Z2luJyApOwoKLyoqCiAqIEhhbmRsZSBwbHVnaW4gZGVhY3RpdmF0aW9uLgogKi8KZnVuY3Rpb24gZGVhY3RpdmF0ZV9wbHVnaW4oKSB7CgoJLyoqCgkgKiBSdW4gYWN0aW9uIHdoZW4gZGVhY3RpdmF0ZSB0aGlzIHBsdWdpbi4KCSAqIDEuIFJldm9rZSB0b2tlbiBhbmQgRGVsZXRlIHJlZnJlc2ggdG9rZW4gZnJvbSB0aGUgb3B0aW9uIHRhYmxlCgkgKiAyLiBEZWxldGUgY2FjaGVzIGluIHRyYW5zaWVudHMgYW5kIHBvc3QgbWV0YQoJICogMy4gUmVzZXQgc2NvcGVzCgkgKgoJICogQHNpbmNlIDEuMC4wCgkgKi8KCWRvX2FjdGlvbiggJ2dvb2dsZXNpdGVraXRfZGVhY3RpdmF0aW9uJyApOwoKfQpyZWdpc3Rlcl9kZWFjdGl2YXRpb25faG9vayggX19GSUxFX18sIF9fTkFNRVNQQUNFX18gLiAnXGRlYWN0aXZhdGVfcGx1Z2luJyApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogICAgICAgICAgICAgICAgICAgICAgICAgICBvciBqdXN0IHRoZSBjdXJyZW50IHNpdGUuIE11bHRpc2l0ZSBvbmx5LiBEZWZhdWx0IGlzIGZhbHNlLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bmV3IENsaWVudCgpOwo=</text>
+        <text encoding="base64">ICogQHBhcmFtIGJvb2wgJG5ldHdvcmtfd2lkZSBXaGV0aGVyIHRvIGVuYWJsZSB0aGUgcGx1Z2luIGZvciBhbGwgc2l0ZXMgaW4gdGhlIG5ldHdvcmsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSRhdXRoX2NsaWVudC0+aW5pdGlhbGl6ZSgpOwo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSRhdXRoX2NsaWVudCA9IG5ldyBDbGllbnQoKTsK</text>
+        <text encoding="base64">CQl1cGRhdGVfb3B0aW9uKCAnYW5nZ2FyYW5rdV9zaG93X2FjdGl2YXRpb25fbm90aWNlJywgdHJ1ZSwgZmFsc2UgKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gQmFzZSBjbGFzcyBmb3IgbW9kdWxlcy4KcmVxdWlyZV9vbmNlIF9fRElSX18gLiAnL2luY2x1ZGVzL2NsYXNzZXMvbW9kdWxlLWJhc2UucGhwJzsK</text>
+        <text encoding="base64">CQkvLyBEdXJpbmcgcGx1Z2luIGFjdGl2YXRpb24gd2Ugc2V0IHRoaXMgZmxhZywgdG8gY2hlY2sgbGF0ZXIuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">CX0gZWxzZSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gQXV0b2xvYWQgdmVuZG9yIGZpbGVzLgpyZXF1aXJlX29uY2UgX19ESVJfXyAuICcvdmVuZG9yL2F1dG9sb2FkLnBocCc7Cg==</text>
+        <text encoding="base64">CQl1cGRhdGVfc2l0ZV9vcHRpb24oICdhbmdnYXJhbmt1X3Nob3dfYWN0aXZhdGlvbl9ub3RpY2UnLCB0cnVlICk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVxdWlyZV9vbmNlIEdPT0dMRVNJVEVLSVRfUExVR0lOX0lOQ0xVREVTIC4gJyc7Cg==</text>
+        <text encoding="base64">CQkvLyBEdXJpbmcgcGx1Z2luIGFjdGl2YXRpb24gd2Ugc2V0IHRoaXMgZmxhZywgdG8gY2hlY2sgbGF0ZXIuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>self::$scopes</last-search>
+      <last-search>googlesitekit</last-search>
       <last-offset />
-      <last-pattern>self::$scopes</last-pattern>
-      <last-replace encoding="base64">JHRoaXMtPnNjb3Blcw==</last-replace>
-      <last-substitute>self::$scopes</last-substitute>
+      <last-pattern>googlesitekit</last-pattern>
+      <last-replace>anggaranku</last-replace>
+      <last-substitute>googlesitekit</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -206,6 +216,8 @@
         <entry>get_verification</entry>
         <entry>self::$client</entry>
         <entry>self::$scopes</entry>
+        <entry>GOOGLESITEKIT</entry>
+        <entry>googlesitekit</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -214,6 +226,8 @@
         <entry>wq</entry>
         <entry encoding="base64">JXMvc2VsZjo6JGNsaWVudC8kdGhpcy0+Z29vZ2xlX2NsaWVudC9n</entry>
         <entry encoding="base64">JXMvc2VsZjo6JHNjb3Blcy8kdGhpcy0+c2NvcGVzL2c=</entry>
+        <entry>%s/GOOGLESITEKIT/ANGGARANKU/g</entry>
+        <entry>%s/googlesitekit/anggaranku/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
